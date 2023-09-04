@@ -1,3 +1,3 @@
-# adamrida.github.io
+# Website
 
 test website
