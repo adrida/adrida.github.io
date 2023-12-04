@@ -2,11 +2,7 @@
 
 Contact: adamrida.ra@gmail.com
 
-[Google Scholar](https://scholar.google.com/citations?user=Ia8Rku4AAAAJ)
-
-[Linkedin](https://www.linkedin.com/in/adam-rida-581296142/)
-
-[Github](https://github.com/adrida) (update in progress)
+[Google Scholar](https://scholar.google.com/citations?user=Ia8Rku4AAAAJ) -- [Linkedin](https://www.linkedin.com/in/adam-rida-581296142/) -- [Github](https://github.com/adrida) (update in progress)
 
 [Hugging Face Spaces] (coming soon)
 
