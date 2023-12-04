@@ -6,7 +6,11 @@ Contact: adamrida.ra@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/adam-rida-581296142/)
 
-[CV]
+[Github](https://github.com/adrida) (update in progress)
+
+[Hugging Face Spaces] (coming soon)
+
+[Download CV] (coming soon)
 
 My name is Adam, I am based in Paris, France and I am a data scientist with a background in AI research and CS. I have worked in different companies (Societe Generale, AXA, Qantev, Rebellion Research) in topics related to applied ML and data science.
 For a year, I was a PhD candidate at Sorbonne University in the Trustworthy and Responsible AI Lab (TRAIL), which is a joint venture between Sorbonne and AXA. I was working on topics related ton explainable AI in the context of model dynamics and concept drift. I have published a research paper during this year at the DynXAI workshop of ECML 2023. 
