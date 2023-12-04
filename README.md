@@ -27,5 +27,3 @@ Projects:
 [coming soon]
 
 
-
-
