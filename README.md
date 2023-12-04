@@ -1,6 +1,6 @@
 # Adam Rida
 
-Contact: adamrida[dot]ra[at]gmail[dot]com
+Contact: adamrida.ra@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?user=Ia8Rku4AAAAJ)
 
