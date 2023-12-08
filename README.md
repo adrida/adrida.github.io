@@ -27,7 +27,11 @@ My areas of interest lies in the following:
 Publications:
 [coming soon]
 
-Projects: 
+Projects:
 [coming soon]
-
+- Dynamic Temporal RAG (loom video) -> hugging face
+- DeltaXplainer -> github
+- Drift Explorer?
+- Semantic search on hadiths -> hugging face
+- 
 
