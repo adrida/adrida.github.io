@@ -33,5 +33,6 @@ Projects:
 - DeltaXplainer -> github
 - Drift Explorer?
 - Semantic search on hadiths -> hugging face
-- 
+- Video recording analysis with AI -> github
+- Aqua Sentinel, outlier detection -> github
 
