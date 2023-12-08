@@ -9,7 +9,7 @@ Contact: adamrida.ra@gmail.com
 [Download CV] (coming soon)
 
 My name is Adam, I am based in Paris, France and I am a data scientist with a background in AI research and CS. I have worked in different companies (Societe Generale, AXA, Qantev, Rebellion Research) in topics related to applied ML and data science.
-For a year, I was a PhD candidate at Sorbonne University in the Trustworthy and Responsible AI Lab (TRAIL), which is a joint venture between Sorbonne and AXA. I was working on topics related ton explainable AI in the context of model dynamics and concept drift. I have published a research paper during this year at the DynXAI workshop of ECML 2023. 
+For a year, I was a PhD candidate at Sorbonne University in the Trustworthy and Responsible AI Lab (TRAIL), which is a joint venture between Sorbonne and AXA. I was working on topics related ton explainable AI in the context of model dynamics and concept drift. I have published a research paper during this year at the DynXAI workshop of ECML 2023. Before that, I obtained my Engineer degree (Master's degree) at CY tech and went through Ecole 42 where I learned to code in C.
 I left the PhD to refocus on more applied topics and get closer to the industry without loosing the proximity to academic research.
 In paralell of my experiences I have been built different side projects with the goal of exploring different technologies.
 
