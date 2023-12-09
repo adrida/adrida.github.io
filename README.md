@@ -8,21 +8,23 @@ Contact: adamrida.ra@gmail.com
 
 [Download CV] (coming soon)
 
-My name is Adam, I am based in Paris, France and I am a data scientist with a background in AI research and CS. I have worked in different companies (Societe Generale, AXA, Qantev, Rebellion Research) in topics related to applied ML and data science.
-For a year, I was a PhD candidate at Sorbonne University in the Trustworthy and Responsible AI Lab (TRAIL), which is a joint venture between Sorbonne and AXA. I was working on topics related ton explainable AI in the context of model dynamics and concept drift. I have published a research paper during this year at the DynXAI workshop of ECML 2023.
-I left the PhD to refocus on more applied topics and get closer to the industry without loosing the proximity to academic research.
+My name is Adam, I am based in Paris, France, a data scientist with a background in AI research and CS. I have worked in different companies (Societe Generale, AXA, Qantev, Rebellion Research) in topics related to applied ML and data science.
+For a year, I was a PhD candidate at Sorbonne University in the Trustworthy and Responsible AI Lab (TRAIL), a joint venture between Sorbonne and AXA. I was working on topics related ton explainable AI in the context of model dynamics and concept drift. I published a research paper this year at the DynXAI workshop of ECML 2023.
+I left the PhD to refocus on more applied topics and get closer to the industry without losing the proximity to academic research.
 
 Before that, I obtained my Engineer degree (Master's degree) at CY Tech, in France and went through [Ecole 42](https://42.fr/en/homepage/) where I learned to code in C.
-In paralell of my experiences I have been built different side projects with the goal of exploring different technologies.
+In parallel with my experiences, I have built different side projects to explore different technologies.
+
+Outside of tech, my main hobby is aviation. I am currently working towards my Private Pilot License (PPL) in France and have a few flight hours.
 
 
-My areas of interest lies in the following:
+My areas of interest lie in the following:
 
 - XAI and concept drift
 - Outlier detection and unsupervised approaches
 - Deep learning and latent representations
-- LLMs and their ability to augment current unsolved NLP tasks (RAG, document parsing, knowledge representatiion)
-- More generally, projects applying SOTA methods to solve real-life and high impact
+- LLMs and their ability to augment current unsolved NLP tasks (RAG, document parsing, knowledge representation)
+- More generally, projects applying SOTA methods to solve real-life and high-impact
 
 Publications:
 [coming soon]
@@ -35,5 +37,4 @@ Projects:
 - Semantic search on hadiths -> hugging face
 - Video recording analysis with AI -> github
 - Aqua Sentinel, outlier detection -> github
-- LLM based Animus
 
