@@ -37,4 +37,4 @@ Projects:
 - Semantic search on hadiths -> hugging face
 - Video recording analysis with AI -> github
 - Aqua Sentinel, outlier detection -> github
-
+- projects under construction (llm based animus, using llm to answer most freq asked questions in twitch chats)
