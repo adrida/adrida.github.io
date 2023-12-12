@@ -20,7 +20,7 @@ Outside of tech, my main hobby is aviation. I am currently working towards my Pr
 
 My areas of interest lie in the following:
 
-- XAI and concept drift
+- XAI and concept drift but more generally AI-Human interactions and how to use AI to augment human's abilities
 - Outlier detection and unsupervised approaches
 - Deep learning and latent representations
 - LLMs and their ability to augment current unsolved NLP tasks (RAG, document parsing, knowledge representation)
