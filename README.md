@@ -31,8 +31,8 @@ Publications:
 
 Projects:
 [coming soon]
+- DeltaXplainer [Link to python package](https://github.com/adrida/deltaxplainer)
 - Dynamic Temporal RAG (loom video) -> hugging face
-- DeltaXplainer -> github
 - Drift Explorer?
 - Semantic search on hadiths -> hugging face
 - Video recording analysis with AI -> github
