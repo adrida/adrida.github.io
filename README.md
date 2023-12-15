@@ -31,7 +31,12 @@ Publications:
 
 Projects:
 [coming soon]
-- DeltaXplainer [Link to python package](https://github.com/adrida/deltaxplainer)
+|  | |
+|-|-|
+| ![DeltaXplainer Schema](https://github.com/adrida/deltaxplainer/blob/master/assets/delta.png?raw=true) | **DeltaXplainer** [Link to python package](https://github.com/adrida/deltaxplainer) <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget sapien ut ligula cursus ullamcorper. |
+
+
+
 - Dynamic Temporal RAG (loom video) -> hugging face
 - Drift Explorer?
 - Semantic search on hadiths -> hugging face
