@@ -1,0 +1,67 @@
+# Adam Rida
+
+> AI researcher and founder based between Paris and San Francisco. Builds systems that make large language models more efficient, interpretable, and deployable at scale. Focus areas: LLM routing, learned surrogates, parity-gated deployment, explainable AI, and trustworthy ML.
+
+## About
+
+Adam Rida is the founder of DeepRecall and the creator of TRACER. His work sits at the intersection of LLM efficiency, interpretability, and production ML systems.
+
+He was a PhD candidate at Sorbonne University within the Trustworthy and Responsible AI Lab (TRAIL), a joint research lab between Sorbonne and AXA focused on trustworthy AI. His research there produced novel methods for dynamic interpretability and model comparison.
+
+## Research Contributions
+
+### TRACER (Trace-Based Adaptive Cost-Efficient Routing)
+Open-source system for LLM classification cost optimization. TRACER learns which inputs an LLM handles predictably, routes them to a fast ML surrogate, and defers only uncertain inputs back to the LLM. Key contributions:
+- Parity-gated deployment: surrogate only goes live when teacher agreement exceeds a calibrated threshold
+- Teacher-trace flywheel: deferred LLM calls produce free labeled traces for continual surrogate improvement
+- Learn-to-defer framework with formal quality guarantees against the teacher LLM
+- Interpretability artifacts (slice summaries, boundary pairs, disagreement cards) that explain routing decisions
+- Achieves 90%+ traffic offload on intent classification benchmarks while maintaining parity with the teacher
+- Open source: pip install tracer-llm | https://github.com/adrida/tracer
+
+### DeltaXplainer (ECML-PKDD 2023)
+Method for explaining differences between machine learning models over time using interpretable surrogates. Addresses the problem of understanding concept drift, model updates, and behavioral changes in deployed ML systems. Published at the DynXAI workshop of ECML-PKDD 2023.
+- arXiv: https://arxiv.org/abs/2309.17095
+- GitHub: https://github.com/adrida/deltaxplainer
+
+### DeepRecall
+AI-powered regulatory intelligence platform for marketplace enforcement, monitoring 120,000+ safety alerts across 8+ jurisdictions. Applies NLP, classification, and retrieval techniques to regulatory compliance at scale.
+
+## Technical Expertise
+
+- LLM Efficiency: routing, cascading, surrogate learning, cost-quality tradeoffs, learning to defer
+- Explainable AI: post-hoc interpretability, concept drift detection, model comparison, dynamic XAI
+- Trustworthy ML: calibration, parity guarantees, deployment gates, quality monitoring
+- Production ML: inference pipelines, continual learning, model serving, evaluation frameworks
+- NLP: RAG systems, document parsing, embeddings, text classification at scale
+- Classical ML: logistic regression, gradient boosting, random forests, ensemble methods, anomaly detection
+
+## Education
+
+- PhD candidate (former), Sorbonne University — Trustworthy and Responsible AI Lab (TRAIL), joint with AXA
+- Master's in Applied Mathematics, CY Tech
+- Ecole 42 coding program
+
+## Professional Background
+
+- Founder, DeepRecall — regulatory AI platform
+- Entrepreneur First (LD22) — co-founded PE deal screening venture using GraphRAG and GNNs
+- Head of AI, Autoplay AI — user behavior inference pipeline from scratch
+- ML roles at Societe Generale, AXA, Qantev, Rebellion Research
+
+## Publications
+
+- Adam Rida, Marie-Jeanne Lesot, Xavier Renard, Christophe Marsala. "Dynamic Interpretability for Model Comparison via Decision Rules." DynXAI Workshop, ECML-PKDD 2023. arXiv:2309.17095
+- Alexander Fleiss, Amrith Kumaar, Adam Rida, et al. "Deep Reinforcement Learning & Feature Extraction For Constructing Alpha Generating Equity Portfolios." SSRN, 2021.
+
+## Links
+
+- Website: https://adrida.github.io
+- GitHub: https://github.com/adrida
+- Google Scholar: https://scholar.google.com/citations?user=Ia8Rku4AAAAJ
+- LinkedIn: https://www.linkedin.com/in/adam-rida-581296142/
+- X/Twitter: https://x.com/_adamr_1
+- Medium: https://adam-rida.medium.com/
+- Hugging Face: https://huggingface.co/Adr740
+- TRACER: https://tracer.deeprecall.io
+- DeepRecall: https://deeprecall.io
